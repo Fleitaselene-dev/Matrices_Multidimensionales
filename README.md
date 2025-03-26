@@ -23,4 +23,4 @@ Este programa permite registrar los datos de varias personas, como nombre, apell
 
 1. Abre una **terminal** y navega hasta la ubicación del archivo `Matriz.py`.
 2. Ejecuta el siguiente comando:
-   python manejoArray.py
+   python Matriz.py
